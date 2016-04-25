@@ -83,6 +83,7 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 - [Tree of Savior Experience Calculator (Fernando Fagundes)](http://fernandofagundes.com/tosxp/) - JavaScript based EXP cards calculator.
 - [ToS Camp Map](http://toscamp.com/map_en/) - World map with all areas, chests, NPCs uncovered.
 - [ToSCounter](https://github.com/kaelvofraga/ToSCounter) - Open source stats simulator.
+- [Experience Card Calculator (rafasabb)](https://github.com/rafasabb/treeofsaviorexpcalc) - Open source JavaScript based EXP cards calculator.
 
 ## License
 
