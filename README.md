@@ -56,8 +56,8 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 
 ### Databases
 
-- [Tree of Savior Fan Base](http://www.tosbase.com/) - English database. Include skills and stat simulator.
-- [ToS Database (BR)](http://tosdatabase.com.br/) - Brazilian database. Include skills and stat simulator.
+- [Tree of Savior Fan Base](http://www.tosbase.com/) - English database. Include skills and stats simulator.
+- [ToS Database (BR)](http://tosdatabase.com.br/) - Brazilian database. Include skills and stats simulator.
 - [ToS Database (Dot Net)](http://tosdatabase.net/us/) - English database.
 - [Tree of Savior Wiki Database](http://toswiki.treeofsaviorgame.com/) - English wiki.
 - [Tree Of Savior Thailand Fansite](http://www.treeofsavior-th.com/) - Not complete, some links point to tosbase.com.
