@@ -96,6 +96,7 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 ## Miscellaneous
 
 - [Tree of Savior Mechanics Guide](https://github.com/vyne1/tos-mechanics) - Open source collection of useful information for the game.
+- [Writing Sheet (Riunia)](https://docs.google.com/spreadsheets/d/1P1i_FBdimQqyf9M9U43ypKi_o0Edz78hPz-mxQvfH7c/htmlview) - Sheet that has a quests database, XP card table and dungeon drops.
 
 ## License
 
