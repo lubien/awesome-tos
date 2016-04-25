@@ -10,13 +10,13 @@
 
 Addons may use a badge to let users know it's current status of approval by IMC Games staff. Simply add one of these badges on your project repository:
 
-![Addon Approved](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-approved.svg) - Addon Approved by IMC Staff. Provide a link referring the approval.
+![Addon Approved](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-approved.svg) - Addon Approved by IMyouC Staff. Provide a link referring the approval.
 
 ```md
 ![Addon Approved](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-approved.svg)
 ```
 
-![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg) - Not approved yet but for some reason you you think it's safe for use (you may provide an explanation of how your addon is safe).
+![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg) - Not approved yet but for some reason you think it's safe for use (you may provide an explanation of how your addon is safe).
 
 ```md
 ![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg)
