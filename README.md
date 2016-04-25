@@ -43,6 +43,7 @@ Addons may use a badge to let users know it's current status of approval by IMC 
   - [Addons](#webapps)
   - [Programs](#programs)
   - [WebApps](#webapps)
+- [Miscellaneous](#miscellaneous)
 
 ## Sites
 
@@ -91,6 +92,10 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 - [ToSCounter](https://github.com/kaelvofraga/ToSCounter) - Open source stats simulator.
 - [Experience Card Calculator (rafasabb)](https://github.com/rafasabb/treeofsaviorexpcalc) - Open source JavaScript based EXP cards calculator.
 - [Tree Of Savior Monster Map (vtange)](http://vtange.github.io/TreeOfSaviorMapdex/) - Open source world map with monsters, NPCs, and subareas listed per area.
+
+## Miscellaneous
+
+- [Tree of Savior Mechanics Guide](https://github.com/vyne1/tos-mechanics) - Open source collection of useful information for the game.
 
 ## License
 
