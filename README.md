@@ -81,6 +81,7 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 - [EXP Card Calculator (Hakto)](http://tosexp.hakto.net/) - PHP based EXP cards calculator.
 - [ToS XP Cards Calculator (lubien)](http://lubien.github.io/tosxp/) - Open source JavaScript based EXP cards calculator.
 - [Tree of Savior Experience Calculator (Fernando Fagundes)](http://fernandofagundes.com/tosxp/) - JavaScript based EXP cards calculator.
+- [ToS Camp Map](http://toscamp.com/map_en/) - World map with all areas, chests, npcs uncovered.
 
 ## License
 
