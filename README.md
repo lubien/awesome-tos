@@ -41,8 +41,8 @@ Addons may use a badge to let users know it's current status of approval by IMC 
   - [Databases](#databases)
 - [Tools](#tools)
   - [Addons](#webapps)
+  - [Programs](#programs)
   - [WebApps](#webapps)
-
 
 ## Sites
 
@@ -73,6 +73,10 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 - [cwLibrary](https://github.com/fiote/treeofsavior-addons) - ![Addon Status Unknown](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unknown.svg) Collection of addons made by [Murilo Mielke](https://github.com/fiote).
 - [Excrulon's Tree of Savior Lua Mods](https://github.com/Excrulon/Tree-of-Savior-Lua-Mods) - ![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg) Collection of addons made by [Excrulon](https://github.com/Excrulon).
 - [BetterQuest](https://www.reddit.com/r/treeofsavior/comments/4fa88z/betterquest_an_addonmod_for_the_quest_ui/) -  ![Addon Status Unknown](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unknown.svg) Show location of quests you don't have in the map.
+
+### Programs
+
+- [Hiras ToS Hotkey Changer](http://forum.tosbase.com/viewtopic.php?f=9&t=1668) - Open source program to change hotkeys for ToS  with Joystick Support.
 
 ### WebApps
 
