@@ -77,6 +77,7 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 ### Programs
 
 - [Hiras ToS Hotkey Changer](http://forum.tosbase.com/viewtopic.php?f=9&t=1668) - Open source program to change hotkeys for ToS  with Joystick Support.
+- [IPFUnpacker](https://github.com/r1emu/IPFUnpacker) - Open source program that decrypts, extract and encrypt IPF files from the Tree of Savior client.
 
 ### WebApps
 
