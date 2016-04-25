@@ -62,6 +62,8 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 - [Tree of Savior Wiki Database](http://toswiki.treeofsaviorgame.com/) - English wiki.
 - [Tree Of Savior Thailand Fansite](http://www.treeofsavior-th.com/) - Not complete, some links point to tosbase.com.
 - [Tree Of Savior Thailand](http://www.treeofsaviorthailand.com/) - Not complete, some links point to tosbase.com.
+- [ToSGBase](https://tos.neet.tv/) - English database. Include skills simulator.
+- [ToSKBase](https://tos-kr.neet.tv/) - Korean database. Include skills simulator.
 
 ## Tools
 
