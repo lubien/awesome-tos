@@ -13,25 +13,25 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 ![Addon Approved](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-approved.svg) - Addon Approved by IMC Staff. Provide a link referring the approval.
 
 ```md
-![Addon Approved](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-approved.svg)
+[![Addon Approved](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-approved.svg)](https://github.com/lubien/awesome-tos#addons-badges)
 ```
 
 ![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg) - Not approved yet but for some reason you think it's safe for use (you may provide an explanation of how your addon is safe).
 
 ```md
-![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg)
+[![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg)](https://github.com/lubien/awesome-tos#addons-badges)
 ```
 
 ![Addon Status Unknown](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unknown.svg) - Status Unknown.
 
 ```md
-![Addon Status Unknown](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unknown.svg)
+[![Addon Status Unknown](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unknown.svg)](https://github.com/lubien/awesome-tos#addons-badges)
 ```
 
 ![Addon Unsafe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unsafe.svg) - Your addon is not safe. Users must use at their own will.
 
 ```md
-![Addon Unsafe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unsafe.svg)
+[![Addon Unsafe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unsafe.svg)](https://github.com/lubien/awesome-tos#addons-badges)
 ```
 
 ## Table of Contents
