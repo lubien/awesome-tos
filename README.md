@@ -100,6 +100,7 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 - [Tree of Savior Mechanics Guide](https://github.com/vyne1/tos-mechanics) - Open source collection of useful information for the game.
 - [Writing Sheet (Riunia)](https://docs.google.com/spreadsheets/d/1P1i_FBdimQqyf9M9U43ypKi_o0Edz78hPz-mxQvfH7c/htmlview) - Sheet that has a quests database, XP card table and dungeon drops.
 - [List of all the top Addon's people would like](https://www.reddit.com/r/treeofsavior/comments/4g8yn5/list_of_all_the_top_addons_people_would_like/) - Useful Reddit thread showing people's interest in addons by Terrace.
+- [SweetFX Preset](https://sfx.thelazy.net/games/preset/5477/) - A SweetFX preset to enhance the look of the game without taking away from the art style. It is very subtle, but makes a world of difference. The first preset for ToS, done by reddit user /u/Le_Scum
 
 ## License
 
