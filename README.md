@@ -76,6 +76,7 @@ Addons may use a badge to let users know it's current status of approval by IMC 
 - [BetterQuest](https://www.reddit.com/r/treeofsavior/comments/4fa88z/betterquest_an_addonmod_for_the_quest_ui/) -  ![Addon Status Unknown](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unknown.svg) Show location of quests you don't have in the map.
 - [Miei/TOS-lua](https://github.com/Miei/TOS-lua) - ![Addon Status Unknown](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-unknown.svg) Collection of addons made by [Miei](https://github.com/Miei).
 - [TOS-Bandicam_removewatermark](https://github.com/WatchGintama/TOS-Bandicam_removewatermark) - ![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg) Removes the watermark from the in-game Bandicam feature.
+- [TehSeph's ToS Addons](https://github.com/TehSeph/tos-addons) - ![Addon Safe](https://cdn.rawgit.com/lubien/awesome-tos/master/badges/addon-safe.svg) Collection of addons made by [TehSeph](https://github.com/TehSeph/).
 
 ### Programs
 
